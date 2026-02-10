@@ -19,11 +19,6 @@
 - [2.jpg](./contents/2.jpg)
 - [3.jpg](./contents/3.jpg)
 
-### img タグ
-
-<img alt="1.jpg" src="./contents/1.jpg" />
-<img alt="2.jpg" src="./contents/2.jpg" />
-<img alt="3.jpg" src="./contents/3.jpg" />
 
 ```mermaid
 graph LR
