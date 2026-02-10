@@ -24,3 +24,9 @@
 <img alt="1.jpg" src="./contents/1.jpg" />
 <img alt="2.jpg" src="./contents/2.jpg" />
 <img alt="3.jpg" src="./contents/3.jpg" />
+
+```mermaid
+graph LR
+A["<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQfkh1d7MUSaktyvVHa_E3dgn2Ek2rxcd_g&s' width='40' />"]
+
+```
